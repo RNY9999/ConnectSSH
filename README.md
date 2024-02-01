@@ -81,5 +81,9 @@ docker run {イメージ名}
 docker exec -it {コンテナ名} bash
 ```
 
-# READMEの書き方について
-参考 : [基本的な書き方とフォーマットの構文](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+# 参考
+- [基本的な書き方とフォーマットの構文](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+- [Laravel Sail エイリアスの設定方法](https://qiita.com/tomo332/items/f6c8c1b4fbcf1d828940)
+
+- [Laravel 環境構築](https://qiita.com/minato-naka/items/8b31d28823cabaa9487a)
